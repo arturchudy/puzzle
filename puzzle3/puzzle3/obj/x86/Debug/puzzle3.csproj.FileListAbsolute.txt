@@ -1,0 +1,9 @@
+c:\users\xxx\documents\visual studio 2010\Projects\puzzle3\puzzle3\obj\x86\Debug\puzzle3.Form1.resources
+c:\users\xxx\documents\visual studio 2010\Projects\puzzle3\puzzle3\obj\x86\Debug\puzzle3.Properties.Resources.resources
+c:\users\xxx\documents\visual studio 2010\Projects\puzzle3\puzzle3\obj\x86\Debug\puzzle3.csproj.GenerateResource.Cache
+c:\users\xxx\documents\visual studio 2010\Projects\puzzle3\puzzle3\bin\Debug\puzzle3.exe
+c:\users\xxx\documents\visual studio 2010\Projects\puzzle3\puzzle3\bin\Debug\puzzle3.pdb
+c:\users\xxx\documents\visual studio 2010\Projects\puzzle3\puzzle3\obj\x86\Debug\puzzle3.exe
+c:\users\xxx\documents\visual studio 2010\Projects\puzzle3\puzzle3\obj\x86\Debug\puzzle3.pdb
+C:\Users\xxx\Desktop\puzzle3\puzzle3\obj\x86\Debug\puzzle3.exe
+C:\Users\xxx\Desktop\puzzle3\puzzle3\obj\x86\Debug\puzzle3.pdb
